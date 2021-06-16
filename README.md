@@ -1,2 +1,2 @@
-# tracker
-An issue tracker for ccwallet.io feature requests
+# ccwallet.io feature tracker
+Add feature requests or issues regarding ccwallet.io to this GitHub repo.
